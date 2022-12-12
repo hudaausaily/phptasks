@@ -15,6 +15,7 @@
 //3 Create a simple HTML form and accept the user’s name and display the name through a PHP echo statement.
 
 // echo $_POST;
+
 // if(isset($_POST)){
     // print_r($_POST);
 // // }
@@ -48,6 +49,10 @@
 
 // header('Location: https://www.w3schools.com/%27);
 
+
+
+    // $arr = array ('red', 'green', 'yellow');
+    // print_r($arr);
 ?>
 
 <!-- <!DOCTYPE html>
